@@ -47,7 +47,7 @@ export default function App() {
 ```
 ### 2. Dynamic Styling using external css in React
 
-```
+```javascript
 import React from 'react';
 import './styles.css';
 
