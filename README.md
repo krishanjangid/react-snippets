@@ -88,7 +88,6 @@ body {
 ### 3. Create Button by Styled Component
 ```javascript
 import styled from 'styled-components';
-import './Button.css';
 
 const Button = styled.button`
 
@@ -112,6 +111,8 @@ const Button = styled.button`
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
 }
 `;
+
+//insted this you can use above code
 // const Button = props => {
 //   return (
 //     <button type={props.type} className="button" onClick={props.onClick}>
@@ -120,7 +121,6 @@ const Button = styled.button`
 //   );
 // };
 
-export default Button;
 ```
 ## Author
 
