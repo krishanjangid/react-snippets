@@ -46,7 +46,7 @@ export default function App() {
 }
 ```
 ### 2. Dynamic Styling using external css in React
-
+**App.js**
 ```javascript
 import React from 'react';
 import './styles.css';
@@ -63,6 +63,24 @@ export default function App() {
             <button onClick= {togglebtn}>Toggle style</button>
         </div>
     );
+}
+```
+**Style.css**
+```css
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 3rem;
+    background-color: #2d2c2c;
+    color: #959090;
+    text-align: center;
+}
+
+.active {
+    background-color: orange;
+    padding: 0.5rem;
+    border-radius: 4px;
+    color: black;
 }
 ```
 
