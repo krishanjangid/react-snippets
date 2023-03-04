@@ -10,7 +10,7 @@ This Repository is made for Share React Snippets. i hope this Repo will help you
 ## Snippets
 
 - [Dynamic Styling using inline css in React](#1-dynamic-styling-using-inline-css-in-react)
-- [Dynamic Styling using external css in React](#2-dynamic-styling-using-inline-css-in-react)
+- [Dynamic Styling using external css in React](#2-dynamic-styling-using-external-css-in-react)
 
 ## Tech Stack
 
