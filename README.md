@@ -9,7 +9,7 @@ This Repository is made for Share React Snippets. i hope this Repo will help you
 
 ## Snippets
 
-- [Dynamic Styles in React](#Dynamic-Styles-in-React)
+- [Dynamic Styles in React](#1-dynamic-styles-in-react)
 
 ## Tech Stack
 
